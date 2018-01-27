@@ -17,5 +17,4 @@
         console.log("userAgent sinffered");
         return userAgent + keyword;
     });
-    // Your code here...
 })();
